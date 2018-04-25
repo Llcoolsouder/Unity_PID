@@ -51,9 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BallControl.cs" />
-     <Compile Include="Assets\MoveTarget.cs" />
-     <Compile Include="Assets\PID.cs" />
+     <Compile Include="Assets\Scripts\BallControl.cs" />
+     <Compile Include="Assets\Scripts\MoveTarget.cs" />
+     <Compile Include="Assets\Scripts\PID.cs" />
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>E:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
  </Reference>
