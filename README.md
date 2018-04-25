@@ -4,6 +4,8 @@ This is our final project for Systems and Controls at Rowan University.  We chos
 This demo can be played by downloading the files in this repo and opening **SnC_PID.exe**, or you may open the top level folder in Unity to modify and/or build the project.  
 The target platform for this demo is Windows 10. This has not been tested for any other platforms.
 
+![alt text](https://github.com/Llcoolsouder/Unity_PID/blob/master/Unity_PID.gif "PID Controller in action")
+
 ## Player Controls
 Move Target Marker - Left and Right arrow keys  
 Add Random Force to the Ball - Space bar
